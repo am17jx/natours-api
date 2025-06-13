@@ -3,6 +3,7 @@
 Natours is a comprehensive backend application for a fictional tour company, built with Node.js, Express, and MongoDB. The project provides a complete RESTful API for managing tours, users, and reviews, featuring a robust authentication and authorization system, advanced security features, and much more.
 
 This project is an implementation of the popular Node.js course by Jonas Schmedtmann, applying all the best practices and advanced concepts taught.
+![Natours Project Architecture](https://github.com/am17jx/natours-api/blob/master/natours%20project%20global%20architecture.webp?raw=true)
 
 ---
 
